@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Nickolas 😁
+## Welcome to Nickolas' profile 😁
 
  <div>
    <a href="https://github.com/NickolasSantosCremasco">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### For more content about programation follow my LinkedIn :)
  
 <div>
   
