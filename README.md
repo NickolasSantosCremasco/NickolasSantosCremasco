@@ -20,7 +20,8 @@
   
   <a href="[https://www.linkedin.com/in/nickolas-dos-santos-cremasco-0b4118246/](https://toppng.com/img-download/stock/477018)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
- [![Nickolas' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NickolasSantosCremasco&bg_color=0d1117&color=42f5b9&line=42aaff&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42f5b9&size=20&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nickolas;Enthusiastic+Developer+💻;Always+learning+new+things+🚀;Let's+build+something+epic!)](https://git.io/typing-svg)
+
 
 
 </div>
