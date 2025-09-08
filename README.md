@@ -1,5 +1,5 @@
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42f5b9&size=20&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nickolas;Enthusiastic+Developer+💻;Always+learning+new+things+And+Ready+to+Build🚀;Let's+create+something+epic!)](https://git.io/typing-svg)
+### Welcome to Nickolas's Profile!
 
  <div>
    <a href="https://github.com/NickolasSantosCremasco">
