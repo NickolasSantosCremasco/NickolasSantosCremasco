@@ -1,5 +1,5 @@
   
-### Welcome to Nickolas's Profile!
+## Welcome to Nickolas's Profile! 😊
 
  <div>
    <a href="https://github.com/NickolasSantosCremasco">
@@ -20,10 +20,12 @@
 <div>
   
   <a href="https://toppng.com/uploads/preview/linkedin-logo-png-free-11660255212jmwsbnextx.png" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NickolasSantosCremasco&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
   
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42f5b9&size=20&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nickolas;Enthusiastic+Developer+💻;Always+learning+new+things+🚀;Let's+build+something+epic!)](https://git.io/typing-svg)
 
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NickolasSantosCremasco&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+  
 </div>
