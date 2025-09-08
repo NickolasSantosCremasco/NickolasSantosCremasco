@@ -19,7 +19,8 @@
 <div>
   
   <a href="https://www.linkedin.com/in/nickolas-dos-santos-cremasco-0b4118246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Animação de cobra](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  
+ [![Nickolas' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NickolasSantosCremasco&bg_color=0d1117&color=42f5b9&line=42aaff&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div>
