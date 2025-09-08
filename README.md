@@ -18,7 +18,7 @@
  
 <div>
   
-  <a href="[https://www.linkedin.com/in/nickolas-dos-santos-cremasco-0b4118246/](https://toppng.com/img-download/stock/477018)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://toppng.com/uploads/preview/linkedin-logo-png-free-11660255212jmwsbnextx.png" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NickolasSantosCremasco&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
   
